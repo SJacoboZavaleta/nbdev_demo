@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_demo"
+  site-url: "https://SJacoboZavaleta.github.io/nbdev_demo"
+  description: "Testing nbdev library"
+  repo-branch: main
+  repo-url: "https://github.com/SJacoboZavaleta/nbdev_demo"
